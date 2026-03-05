@@ -4,75 +4,92 @@
 
 ### Project Proposal
 
-- Design brief:
+#### Design brief:
 
 This project will create a website based on the book "The Peloponnesian War" by Thucydides, translated by Walter Blanco. The target audience is general consumers with an interest in history, especially classical greek history.
 
-- Book choice and justification
+#### Book choice and justification
 
 The book is "The Peloponnesian War" by Thucydides, translated by Walter Blanco.
 
-**
-The book is a translation of Thucydides account of the war fought between the Athenian and Spartan alliances in the 5th century B.C. in Greece. It explores the factors that lead up to the war, significant events and how the war progressed, and the Athens eventual defeat. 
+The book is a translation of Thucydides account of the war fought between the Athenian and Spartan alliances in the 5th century B.C. in Greece. Through a collection of books it explores the factors that lead up to the war, significant events and how the war progressed, and Athens eventual defeat.
 
-I chose this book as I had an interest in greek history, and I thought the book was in detail. Additionally I thought it might help in some other subjects, like ancient history. It inspired the project b
+I chose this book as I had an interest in greek history, and I thought the book was in detail. Additionally I thought it might help in some other subjects, like ancient history.
 
-- User experience type
+#### User experience type
 
-- Target market
+The user experience will be in the form of a website. This is because a website will be the most efficient way to convey the information, and allow versatility with user experience. This will enhance the themes of the book by clearly laying out information and allowing easier interaction with the material.
 
-- Software and tools
+#### Target market
 
-- Initial brainstorming
+The intended audience is all ages interested in history, especially that of classical greece. The reading level should be accessible to those above primary school level, and will aim to be understood by general audiences rather than requiring prior knowledge of specific terminology. 
+
+This project will appeal as it provides an overview of one of the most fascinating wars of antiquity, the Peloponnesian war. By presenting the information in an engaging way, the project will seek to both be entertaining and educational.
+
+To cater to this general audience, there will be plenty of images, as well as appropriate language used to ensure understanding among all readers.
+
+#### Software and tools
+
+- Adobe XD: School sanctioned and has good tutorials available online, as well as being integrated with adobe creative cloud. 
+- HTML: Very established tool that has many different tutorials.
+- Figma: Could be used as I have prior experience from a workshop on design and user experience, meaning that it would take less effort to get to know the software and how to use it, leading to a more efficient implement/iterate phase. This software is also industry standard.
+
+
+#### Initial brainstorming
+
+![3 Tiered Mindmap](images/mindmap.png)
+
 
 ### Functional Requirements
 
-- Purpose
+#### Purpose
 
-- Use cases
-    - 1. 
-    - 2. 
-    - 3. 
-    - 4. 
+The website is designed to engage, inform, and educate its users about classical greek antiquity. The app is designed to promote learning about ancient history. 
 
-- Test cases
-    - 1. 
-    - 2. 
-    - 3. 
-    - 4. 
+#### Use cases
+- 1. Users will select a page that displays the significant people of the time. 
+- 2. 
+- 3. 
+- 4. 
+
+#### Test cases
+- 1. 
+- 2. 
+- 3. 
+- 4. 
 
 ### Non Functional requirements
 
-- Performance
+#### Performance
 
-- Useability
+#### Useability
 
-- Reliability
+#### Reliability
 
-- Security
+#### Security
 
 ### Social, Legal, Ethical issues
 
-- Social Impact
-    - Target audience considerations
-    - Potential benefits
-    - Potential risks
+#### Social Impact
+- Target audience considerations
+- Potential benefits
+- Potential risks
 
-- Legal Considerations
-    - Copyright and intellectual property
-    - Terms of use
+#### Legal Considerations
+- Copyright and intellectual property
+- Terms of use
 
-- Ethical Responsibilities
-    - User data and privacy
-    - Representation and inclusion
-    - Content sensitivity
+#### Ethical Responsibilities
+- User data and privacy
+- Representation and inclusion
+- Content sensitivity
 
 
 ## Researching and Planning
 
-- Gantt Chart
+### Gantt Chart
 
-- Research Existing UI
+### Research Existing UI
 
 | User Interface | Plus | Minus | Implication |
 | -------------- | ---- | ----- | ----------- |
@@ -80,7 +97,7 @@ I chose this book as I had an interest in greek history, and I thought the book 
 | UI 2 | Placeholder | Placeholder | Placeholder |
 | UI 3 | Placeholder | Placeholder | Placeholder |
 
-- Research software options
+### Research software options
 
 | Software Option| Plus | Minus | Implication |
 | -------------- | ---- | ----- | ----------- |
@@ -88,13 +105,15 @@ I chose this book as I had an interest in greek history, and I thought the book 
 | Software 2 | Placeholder | Placeholder | Placeholder |
 | Software 3 | Placeholder | Placeholder | Placeholder |
 
-- Wireframes
+### Wireframes
 
 1. 
 2. 
 3. 
 
-- Wireframes Feedback
+#### Wireframes Feedback
+
+
 
 ## Producing and Implementing
 
@@ -106,3 +125,4 @@ I chose this book as I had an interest in greek history, and I thought the book 
 
     - Social requirements
     - Ethical requirements
+
