@@ -47,26 +47,68 @@ To cater to this general audience, there will be plenty of images, as well as ap
 The website is designed to engage, inform, and educate its users about classical greek antiquity. The app is designed to promote learning about ancient history. 
 
 #### Use cases
-- 1. Users will select a page that displays the significant people of the time. 
+- 1. 
+
+Use case: User selects a page that takes them to a map summmarising information
+
+Journey: User sees information but doesn't know the in's and out's of ancient greek polities. -> User sees page called "map" -> User clicks map to then see an overview of different locations of significance (cities, battles, events, etc.)
+
+
 - 2. 
+
+Use case: User selects a page that shows detailed information about different important characters
+
+Journey: User sees the events happening but doesn't recognise any people -> User sees a page called "Significant figures" -> User clicks to see the significant figures of the time.
+
+
 - 3. 
+
+Use case: User selects a page that shows information about different cities in the time, based on power level.
+
+Journey: User sees events happening but can't keep cities and their advantages/power levels straight -> User sees a page called "Cities" -> User clicks to see the cities and understands their backstories, strengths and weaknesses. 
+
+
 - 4. 
+
+Use case: User selects a page that puts significant events on a timeline
+
+Journey: User wants to know the relative time between different events happening -> User sees a page called "Timeline" -> User clicks to see how different events happened relative to each other.
 
 #### Test cases
 - 1. 
+
+When the user selects the map page, it will take them to a map with several clickable points to provide more information. This will be self tested later by clicking every button to ensure each works properly.
+
 - 2. 
+
+When the user selects the significant figures page, it will take them to a page with relevant images and information. This will be self tested later by viewing the page to ensure all the text and images load properly. 
+
 - 3. 
+
+When the user selects the cities page, it will show them a page that has major cities layed out, with bar chart images underneath for power levels. This will be peer tested later to ensure that the ratings make sense and that all of the information is implemented properly.
+
 - 4. 
+
+When the user selects the timeline page, it will show them the timeline, that will scroll sideways to reveal information. This will be self tested to ensure the scrolling function works properly.
+
 
 ### Non Functional requirements
 
 #### Performance
 
+The app will provide smooth performance by remaining lightweight and not incorporating data and internet intensive information (e.g. large images). This will keep navigation between screens down below two seconds
+
 #### Useability
+
+To ensure the app has a high useability, it will consistently maintain high visibility fonts, pictures, and size texts. Additionally the layout will be kept similar for the project to provide an intuitive navigation experience. 
 
 #### Reliability
 
+The app will have a bug free status by implementing a large amount of testing during production, to find bugs. Additionally, when bugs are found during peer tests, they will be fixed as well. Testing across different interfaces will also commence (e.g. laptop vs phone)
+
 #### Security
+
+To ensure security, the app will not collect private information that must be kept secure, solving the security problem.
 
 ### Social, Legal, Ethical issues
 
