@@ -1,8 +1,8 @@
 # UX Design Project
 
-## Identifying and Defining
+## Identifying and defining
 
-### Project Proposal
+### Project proposal
 
 #### Design brief:
 
@@ -12,9 +12,9 @@ This project will create a website based on the book "The Peloponnesian War" by 
 
 The book is "The Peloponnesian War" by Thucydides, translated by Walter Blanco.
 
-The book is a translation of Thucydides account of the war fought between the Athenian and Spartan alliances in the 5th century B.C. in Greece. Through a collection of books it explores the factors that lead up to the war, significant events and how the war progressed, and Athens eventual defeat.
+The book is a translation of Thucydides' account of the war fought between the Athenian and Spartan alliances in the 5th century B.C. in Greece. Through a collection of books it explores the factors that lead up to the war, significant events and how the war progressed, and Athens' eventual defeat.
 
-I chose this book as I had an interest in greek history, and I thought the book was in detail. Additionally I thought it might help in some other subjects, like ancient history.
+I chose this book as I had an interest in greek history, and it is *the* Classical greek text, it inspires this project by providing a significant amount of information in a readable manner, something the project will attempt to emulate.
 
 #### User experience type
 
@@ -26,12 +26,12 @@ The intended audience is all ages interested in history, especially that of clas
 
 This project will appeal as it provides an overview of one of the most fascinating wars of antiquity, the Peloponnesian war. By presenting the information in an engaging way, the project will seek to both be entertaining and educational.
 
-To cater to this general audience, there will be plenty of images, as well as appropriate language used to ensure understanding among all readers.
+To cater to this general audience, there will be images, clear navigation, appropriate language used, as well as interactive elements like maps or timelines to ensure understanding among all readers.
 
 #### Software and tools
 
 - Adobe XD: School sanctioned and has good tutorials available online, as well as being integrated with adobe creative cloud. 
-- HTML: Very established tool that has many different tutorials.
+- HTML: Many different tutorials available. Reliable tool for building structure and layout of a website for the project.
 - Figma: Could be used as I have prior experience from a workshop on design and user experience, meaning that it would take less effort to get to know the software and how to use it, leading to a more efficient implement/iterate phase. This software is also industry standard.
 
 
@@ -40,7 +40,7 @@ To cater to this general audience, there will be plenty of images, as well as ap
 ![3 Tiered Mindmap](images/mindmap.png)
 
 
-### Functional Requirements
+### Functional requirements
 
 #### Purpose
 
@@ -92,7 +92,7 @@ When the user selects the cities page, it will show them a page that has major c
 When the user selects the timeline page, it will show them the timeline, that will scroll sideways to reveal information. This will be self tested to ensure the scrolling function works properly.
 
 
-### Non Functional requirements
+### Non functional requirements
 
 #### Performance
 
@@ -110,18 +110,18 @@ The app will have a bug free status by implementing a large amount of testing du
 
 To ensure security, the app will not collect private information that must be kept secure, solving the security problem.
 
-### Social, Legal, Ethical issues
+### Social, legal, ethical issues
 
-#### Social Impact
+#### Social impact
 - Target audience considerations
 - Potential benefits
 - Potential risks
 
-#### Legal Considerations
+#### Legal considerations
 - Copyright and intellectual property
 - Terms of use
 
-#### Ethical Responsibilities
+#### Ethical responsibilities
 - User data and privacy
 - Representation and inclusion
 - Content sensitivity
@@ -153,15 +153,15 @@ To ensure security, the app will not collect private information that must be ke
 2. 
 3. 
 
-#### Wireframes Feedback
+#### Wireframes feedback
 
 
 
-## Producing and Implementing
+## Producing and implementing
 
 
 
-## Testing and Evaluating
+## Testing and evaluating
 
 - Final Evaluation 
 
