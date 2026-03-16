@@ -114,17 +114,43 @@ To ensure security, the app will not collect private information that must be ke
 
 #### Social impact
 - Target audience considerations
+
+The target audience age group wise is teenagers and up, as the book does deal with some strong themes. As such, the accessibility needs that should be dealt with include vision impairment and hearing impairment mainly. To help address these, the project will have fonts that are large enough to be read by poor eyesight, and time permitting, the project will be text to speech compatible with third party computer programs. As for hearing impairment, there is no audio necessary for the experience, so people with impaired hearing will not miss out.
+
 - Potential benefits
+
+This project will help educate people on the classical greek antiquity period, the main war of the time, and important people, cities, and events. 
+
+This project will encourage further reading into other topics, and could serve as an entrypoint into ancient history
+
 - Potential risks
 
-#### Legal considerations
-- Copyright and intellectual property
-- Terms of use
+The book deals with heavy topics such as death (entire cities captured), as well as a plague, which will have to be delicately approached by the website design.
+
+The author translates greek terms literally that were normal for ancient greece but are now outdated (barbarian being literal greek word for outsiders, now is rude, bordering on discriminatory)
 
 #### Ethical responsibilities
 - User data and privacy
+
+The prototype will not collect any data. However if it did it would be handled responsibly by asking permission from users, and deleting it when asked and when users deleted an account.
+
 - Representation and inclusion
+
+The project will represent and include themes, ideas, and characters from the book. The book itself is extremely rational and factual owing to Thucydides personal historical style, which has been translated into english. Therefore any themes, ideas, characters etc mentioned, as long as they are kept the same as the book (which is the main source of the events of the time), will be representative and inclusive of everything known about the time period. Therefore the project will represent the ideas of the book fairly, as the book is the most prominent source of what happened.
+
 - Content sensitivity
+
+The book does contain multiple sensitive topics, especially violence and the horrors of war, for example entire cities being captured, male population murdered, the rest enslaved. This was typical for ancient greece, however it will be approached carefully in the project. The project will aim to avoid language glorifying the violence, and convey exactly what happened as delicately as possible. Despite this, the content might still be too violent for some people, and as such there will be a general warning on the pages that describe the events.
+
+#### Legal considerations
+
+- Copyright and intellectual property
+
+There will not be any book images or direct quotes used, however there will be lots of paraphrasing the ideas of the book. Since the book has a 1998 copyright (still active) and all rights reserved, the use of the book falls under fair dealings exceptions for education. This means that no permission is needed, as the literary book is used for educational purposes. This holds as long as the project uses less than 10% of the entire book. The ACC (Australian Copyright Council) also says that individuals can take into account how 'fair' something is, and encourages the subjectivity of it. e.g. copying a large amount is less fair than copying a small amount, and as a result paraphrasing the ideas of the book with small quotes will fall under fair dealings. Therefore, 
+
+- Terms of use
+
+
 
 
 ## Researching and Planning
