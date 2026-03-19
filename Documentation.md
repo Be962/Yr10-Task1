@@ -144,12 +144,9 @@ The book does contain multiple sensitive topics, especially violence and the hor
 
 #### Legal considerations
 
-- Copyright and intellectual property
+- Copyright and intellectual property + terms of use
 
-There will not be any book images or direct quotes used, however there will be lots of paraphrasing the ideas of the book. Since the book has a 1998 copyright (still active) and all rights reserved, the use of the book falls under fair dealings exceptions for education. This means that no permission is needed, as the literary book is used for educational purposes. This holds as long as the project uses less than 10% of the entire book. The ACC (Australian Copyright Council) also says that individuals can take into account how 'fair' something is, and encourages the subjectivity of it. e.g. copying a large amount is less fair than copying a small amount, and as a result paraphrasing the ideas of the book with small quotes will fall under fair dealings. Therefore, 
-
-- Terms of use
-
+There will not be any book images or direct quotes used, however there will be lots of paraphrasing the ideas of the book. Since the book has a 1998 copyright (still active) and all rights reserved, the use of the book falls under fair dealings exceptions for education. This means that no permission is needed, as the literary book is used for educational purposes. This holds as long as the project uses less than 10% of the entire book. The ACC (Australian Copyright Council) also says that individuals can take into account how 'fair' something is, and encourages the subjectivity of it. e.g. copying a large amount is less fair than copying a small amount, and as a result paraphrasing the ideas of the book with small quotes will fall under fair dealings. Therefore, this project will abide by copyright and intellectual property rules.
 
 
 
@@ -189,8 +186,17 @@ There will not be any book images or direct quotes used, however there will be l
 
 ## Testing and evaluating
 
-- Final Evaluation 
+### Final Evaluation 
 
-    - Social requirements
-    - Ethical requirements
+#### How well does the project meet functional and non functional requirements
+
+#### How well does the project meet the intentions outlined in the design brief
+
+#### How well does the project address social, ethical, and legal responsibilities
+
+#### How well were resources managed throughout the project
+
+#### How well was user feedback gathered and responded to in terms of how it influenced the design
+
+
 
