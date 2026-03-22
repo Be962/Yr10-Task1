@@ -158,17 +158,17 @@ There will not be any book images or direct quotes used, however there will be l
 
 | User Interface | Plus | Minus | Implication |
 | -------------- | ---- | ----- | ----------- |
-| UI 1 | Placeholder | Placeholder | Placeholder | 
-| UI 2 | Placeholder | Placeholder | Placeholder |
-| UI 3 | Placeholder | Placeholder | Placeholder |
+| NVIDIA Website (50 series marketing) | Nvidia is very aesthetically pleasing, many pictures in the background and foreground. Easy to navigate because of how scrolling automatically changes tabs. Functional as it accomplishes its purpose to market new products, which requires aesthetics and presentation. | Website doesn't navigate like a normal website, which although it makes it easy to scroll through, it can take away focus from the content. Graphs that look good for presentation, but are misleading can also take away from the overall user experience. | Nvidia marketing websites are purpose built to be engaging and well presented, as they advertise computer products they require well built computer interfaces. What this means for my project is, I can take inspiration from the style of the website to see how to make something easy to navigate. However the information must be presented differently on my project, as it will have much less graphs and images.| 
+| World History Encyclopedia | The website is much more traditional, meaning that it is more familiar to navigate for most users. The information presented is in a style similar to what the project aims for, clearly layed out but not too dense. This website accomplishes its aim to provide information about history, which relies more on clarity than engagement. | Because the website is more focused on presenting information, its aesthetic appeal falls behind other websites meant to be engaging, like Nvidia. The navigation is clear, but it misses the additinal features that makes other websites feel premium, like dynamic scrolling (scrolling that changes tabs which can be seen updating) | The project can be inspired by this website's layout of information and its clarity, but will try to go above the basic website features like Nvidia have, to provide a more engaging experience. The project itself is meant to be a sort of hybrid, however information will take precedence over engagement |
+| Darknode | Darknode takes engagement and aesthetics to the extreme. The website presents a smaller amount of information well, with an exotic feel. The scrolling transitions the screen smoothly, and the design in terms of colour palette is minimalistic but effective. | Because of the emphasis on aesthetic appeal and engagement, the functionality loses out a little. Less information can be displayed, and the site is overall less informative than an encyclopedia style website. | This site is for a military operation, although it is for Ukrainian special forces rather than a war from antiquity. The style is extremely engaging which would be interesting to attempt on the project, however it might be slightly out of scope. The tradeoff for this is also information, which is core to the project. Essentially, I may attempt some of the clean transitions on the project, however information and the layout will have more focus. |
 
 ### Research software options
 
 | Software Option| Plus | Minus | Implication |
 | -------------- | ---- | ----- | ----------- |
-| Software 1 | Placeholder | Placeholder | Placeholder | 
-| Software 2 | Placeholder | Placeholder | Placeholder |
-| Software 3 | Placeholder | Placeholder | Placeholder |
+| Figma | Figma is industry standard, which means that there are lots of tutorials, as well as website examples to look at and get an idea of what is possible. | Many features of the website are not free, such as the more advanced tools required to make dynamic websites. Additionally it is not the tool suggested by the assessment task/school | Because I have experience in figma from a ux workshop, and it is popular in the ux industry, it will be a frontrunner for the software used despite some aspects of the tool being paid. | 
+| Adobe XD | Adobe XD has many good tutorials, and is completely integrated with adobe creative cloud. Additionally, students have a full account. | Adobe XD is generally slightly less user friendly than figma, and I have comparatively less experience. | While I have full access to Adobe XD, having less experience on it and it being less used and having less exemplars means that I will likely not use it for this project. |
+| HTML | HTML is for creating an actual website. | Placeholder | Placeholder |
 
 ### Wireframes
 
