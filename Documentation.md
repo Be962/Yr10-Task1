@@ -154,6 +154,8 @@ There will not be any book images or direct quotes used, however there will be l
 
 ### Gantt Chart
 
+![Gantt Chart](images/Ganttchart.png)
+
 ### Research Existing UI
 
 | User Interface | Plus | Minus | Implication |
@@ -168,7 +170,7 @@ There will not be any book images or direct quotes used, however there will be l
 | -------------- | ---- | ----- | ----------- |
 | Figma | Figma is industry standard, which means that there are lots of tutorials, as well as website examples to look at and get an idea of what is possible. | Many features of the website are not free, such as the more advanced tools required to make dynamic websites. Additionally it is not the tool suggested by the assessment task/school | Because I have experience in figma from a ux workshop, and it is popular in the ux industry, it will be a frontrunner for the software used despite some aspects of the tool being paid. | 
 | Adobe XD | Adobe XD has many good tutorials, and is completely integrated with adobe creative cloud. Additionally, students have a full account. | Adobe XD is generally slightly less user friendly than figma, and I have comparatively less experience. | While I have full access to Adobe XD, having less experience on it and it being less used and having less exemplars means that I will likely not use it for this project. |
-| HTML | HTML is for creating an actual website. | Placeholder | Placeholder |
+| HTML | HTML is for creating an actual website, and will have many tutorials available online. It will also result in a real website at the end | Since HTML is not a prototyping tool, it will make design and aesthetics more difficult, because it is managed with code rather than graphical interfaces like Figma or Adobe XD | HTML will likely not be what I use for the prototype, simply because it will be harder to manage aesthetics and design.|
 
 ### Wireframes
 
