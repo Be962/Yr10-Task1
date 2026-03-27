@@ -180,7 +180,16 @@ There will not be any book images or direct quotes used, however there will be l
 
 #### Wireframes feedback
 
+Data was gathered in a variety of ways from survey in google forms to interviews.
 
+Interview: Maxi
+Score: 394/489
+Commments (paraphrased): Overall solid with room to improve. 
+Usability: Navigation is clear, pages look solid on paper
+Aesthetics: design is okay, could use space better, lots of negative space where something like a summary text would be appreciated
+Functionality: Works as an informational site that mirrors many common encyclopedia sites.
+
+#### Wireframes 
 
 ## Producing and implementing
 
