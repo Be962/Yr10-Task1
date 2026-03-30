@@ -189,7 +189,7 @@ Usability: Navigation is clear, pages look solid on paper
 Aesthetics: design is okay, could use space better, lots of negative space where something like a summary text would be appreciated
 Functionality: Works as an informational site that mirrors many common encyclopedia sites.
 
-#### Wireframes 
+#### Wireframes     
 
 ## Producing and implementing
 
